@@ -1,0 +1,17 @@
+body{ 
+	background-color: #FF66FF		
+}
+
+header{
+	font-size:50px;
+	text-align:center;
+	text-shadow:2px 2px #FFFFFF 
+}
+h1{
+	text-align: center;
+	font-size:50px;
+	border:solid red 20px;
+}
+nav{
+	text-align:center horizontal;
+}

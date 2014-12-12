@@ -1,17 +1,19 @@
-body{ 
-	background-color: #FF66FF		
-}
+body {
+    background-color: #FF33FF
+    }
 
-header{
+header {
 	font-size:50px;
 	text-align:center;
-	text-shadow:2px 2px #FFFFFF 
+	text-shadow:2px 2px #00FFFF; 
 }
-h1{
+
+h1 {
 	text-align: center;
 	font-size:50px;
 	border:solid red 20px;
+	text-shadow: 5px 2px #00FFFF;		
 }
-nav{
-	text-align:center horizontal;
+li{
+	font-size:50px;
 }

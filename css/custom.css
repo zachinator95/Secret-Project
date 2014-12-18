@@ -1,8 +1,8 @@
-/* Custom CSS */
+/* CUSTOM CSS */
 
 
 /* General */
-.forOutline {display: none;} /* Headings needed for HTML Outline */
+.forOutline {display: none;} /* Hide headings needed for HTML Outline */
 
 /* Fonts */
 h1 {font-family: 'Pacifico', cursive; font-size: 4em;}

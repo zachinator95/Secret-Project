@@ -1,18 +1,44 @@
-body {
-    background-color: #FF33FF
-    }
-
-header {
-	font-size:50px;
-	text-align:center;
-	text-shadow:2px 2px #00FFFF; 
-}
-
-h1 {
-	text-align: center;
-	font-size:50px;
-	border:solid red 20px;
-	text-shadow: 5px 2px #00FFFF;		
-}
+/* Custom CSS */
 
 
+/* General */
+.forOutline {display: none;} /* Headings needed for HTML Outline */
+
+/* Fonts */
+h1 {font-family: 'Pacifico', cursive; font-size: 4em;}
+
+/* Colors */
+
+h1 {color: #f26f82;}
+h2 {color: #509bbd;}
+.btn {background: #f26f82;}
+.btn:hover{background: #ff637a;}
+nav ul {background: rgba(0,0,0,0.1);}
+
+/* Rounded Corners */
+#mainWrap, nav ul {border-radius: 1em;}
+
+
+/* Rest of it */
+
+body {background: url('../img/bck.gif');}
+
+header {background: rgba(255,255,255,0.95); border-top: solid .7em #4487A5; border-bottom: solid .3em #4487A5; color: #fff; margin-bottom: 2em;}
+header .extraSpace {padding-left: 3em;}
+
+#mainWrap {background: rgba(255,255,255,0.85); text-align: center;}
+
+#mainContent {padding: 4em 0;}
+
+#mainContent iframe {margin-bottom: 3em;}
+
+
+#mainContent .btn {border: none; margin: 0 auto; width: 50%;}
+
+
+nav {padding-top: 2em; text-align: right; width: 70%;}
+nav ul {list-style: none; margin: 2em; padding: 1em 2em .5em 2em; text-align: left;}
+nav li {margin-bottom: 1em;}
+
+footer {background: #4487A5; border-top: 1px solid #c5c5c5; padding: 2em 0 1em 0;}
+footer a {color: #000;}

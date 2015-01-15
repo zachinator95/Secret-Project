@@ -42,3 +42,19 @@ nav li {margin-bottom: 1em;}
 
 footer {background: #4487A5; border-top: 1px solid #c5c5c5; padding: 2em 0 1em 0;}
 footer a {color: #000;}
+
+dt { 
+	
+	text-shadow: 2px 2px 2px #FF00FF;
+	
+	alignment-adjust: 2px;	
+}
+ img{
+ 	padding-left:2px;
+ 	text-align:right;
+ 	box-shadow:4px 4px 4px #000000;
+ 	border:2px solid #000000;
+ 	border-radius:30px;
+ 	
+ 	
+ }

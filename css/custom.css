@@ -61,3 +61,10 @@ dt {
 	alignment-adjust: 2px;	
 }
 dd {margin-bottom: 2em;}
+
+.control-label{
+	text-shadow:2px 2px 2px #DA70D6
+}
+h1{
+	text-shadow: 2px 2px 2px #000000
+}

@@ -4,124 +4,112 @@ var characterName = {
 }
 var hulk ={
 	name:"Hulk",
-	attributes:["Strength","Short Temper","Destructive","anti-hero"]
+	attributes:["Hero","Destructive","Adventurous","SuperHero","Super-Strength"]
 }
  var scoobyDoo = {
  	name:"Scooby-Doo",
- 	attributes:["Coward","Mystery Solver","Loyal","Dog"]
+ 	attributes:["Hero","Dog","Adventurous","SuperStar","Detective"]
  }
 var darthVader = {
 	name:"Darth Vader",
-	attributes:["Reckless","Cyborg","Villian"]
+	attributes:["Villian","Adventurous","Leader","Revenge"]
 }
 var mickeyMouse ={
 	name:"Mickey Mouse",
-	attributes:["Lovable","Friendly","Kind","Mascot"]
+	attributes:["Hero","superStar","Adventurous","SuperStar","Caring","Leader","Small Ears"]
 }
-var pacMan ={
-	name:"Pac Man",
-	attributes:["Eating","Yellow"]
-}
+
 var elsa ={
 	name:"Elsa",
-	attributes:["Ice Power","Nervous"]
+	attributes:["Hero","Adventurous","SuperStar","Caring","Let it go","Magic"]
 }
-var donkeyKong ={
-	name:"Donkey Kong",
-	attributes:["Gorilla","Bannas","Pride"]
-}
+
 var bugsBunny = {
 	name:"Bugs Bunny",
-	attributes:["Trickster","Smart","Carrots"]
+	attributes:["Hero","Superstar","Adventurous","SuperStar","Caring","Big Ears"]
 }
 var olaf ={
 	name:"Olaf",
-	attributes:["Snowman","Good-Hearted","Summer"]
+	attributes:["Hero","Snowball","Adventurous","SuperStar","Caring","Calm","Non-violent"]
 }
 var daffyDuck={
 	name:"Daffy Duck",
-	attributes:["Hot Head","ScrewBall","Greedy"]
+	attributes:["Hero","Greedy","Adventurous"]
 }
 var storm = {
 	name:"Storm",
-	attributes:["Weather Manipulation","Strategists"]
+	attributes:["Hero","Adventurous","Flight","Caring","Leader"]
 }
 var garfield = {
 	name:"Garfield",
-	attributes:["Lazy"]
-}
-var porkyPig = {
-	name:"Porky Pig",
-	attributes:["Stutters"]
+	attributes:["Hero","Adventurous","Lazy","SuperStar","Peaceful"]
 }
 
 var taz={
 	name:"Taz",
-	attributes:["Insatiable Appetite","Multitasker","Devil"]
+	attributes:["Hero","Destructive","Adventurous","Dog","Crazy"]
 }
 
 var katnissEverdeen = {
 	name:"Katniss Everdeen",
-	attributes:["Hunter","Survivor"]
+	attributes:["Hero","Adventurous","Caring","Leader"]
 }
 
 var ironMan = {
 	name:"Iron Man",
-	attributes:["armor"]
+	attributes:["Hero","Adventurous","Flight","Caring","Wisdom"]
 }
 var belle = {
 	name:"Belle",
-	attributes:["books"]
+	attributes:["Hero","Adventurous","Caring","Books","Peaceful"]
 }
 var yosemiteSam = {
 	name:"Yosemite Sam",
-	attributes:["Explosive"]
+	attributes:["Villain","Explosive","Adventurous"]
 }
 var chewbacca = {
 	name:"Chewbacca",
-	attributes:["co-pilot",]
+	attributes:["Hero","Adventurous","Caring","Follower"]
 }
 var captainAmerica = {
 	name:"Captain America",
-	attributes:["Patriotic"]
+	attributes:["Hero","Adventurous","Super-Strength","Caring","Leader","Shield","USA","Calm"]
 }
 var maleficent={
 	name:"Maleficent",
-	attributes:["Fairy"]
+	attributes:["Hero","Villain","Adventurous","Revenge","Magic"]
 }
 var anna={
 	name:"Anna",
-	attributes:["Confidence"]
+	attributes:["Hero","Adventurous","Adventurous","Caring","Peaceful"]
 }
 var wolverine={
 	name:"Wolverine",
-	attributes:["Berserker"]
+	attributes:["Hero","Adventurous","SuperHero","Caring","Canada","Crazy"]
 }
 var thor={
 	name:"Thor",
-	attributes:["Thunder"]
+	attributes:["Hero","Hammer","Adventurous","SuperHero","Flight","Super-Strength","Caring","Magic"],
 }
-var donaldDuck={
-	name:"Donald Duck",
-	attributes:["sailor"]
-}
-var princessLeia = {
-	name:"Princess Leia",
-	attributes:["Politician"]
+
+var yoda = {
+	name:"Yoda",
+	attributes:["Hero","Adventurous","Leader","Hard-Working","Wisdom"]
 }
 var blackWidow={
 	name:"Black Widow",
-	attributes:["Spy"]
+	attributes:["Hero","Adventurous","SuperHero"]
 }
 var hanSolo={
 	name:"Han Solo",
-	attributes:["pirate"]
+	attributes:["Hero","Adventurous","Hard-Working","Leader"]
 }
 var laraCroft={
 	name:"Lara Croft",
-	attributes:["archaeologists"]
+	attributes:["Hero","Adventurous","Hard-Working"]
 }
-var yoshi ={
-	name:"Yoshi",
-	attributes:["dinosaur"]
+var evilQueen={
+	Name:"Evil Queen",
+	attributes:["Revenge","Villain","Magic"]
 }
+
